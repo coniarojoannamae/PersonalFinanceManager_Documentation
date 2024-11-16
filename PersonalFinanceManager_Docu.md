@@ -222,7 +222,9 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      
    
   3. ERD
-     ![image](https://github.com/user-attachments/assets/a380d30d-f2f1-4c9c-a27a-c73f44416449)
+   ![Database ER diagram (crow's foot)](https://github.com/user-attachments/assets/19d49680-49de-4a44-81ea-0ba445f325f4)
+ 
+ https://lucid.app/lucidchart/f1e5b018-7bc2-4350-830e-e5685a91685b/edit?viewport_loc=-5%2C84%2C2605%2C1137%2C0_0&invitationId=inv_5f67b91d-b80e-4471-8432-b42846d6ba52
 
 
      
