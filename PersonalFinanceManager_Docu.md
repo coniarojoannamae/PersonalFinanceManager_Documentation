@@ -222,7 +222,6 @@ Budget Overview: See how much you’ve spent in each budget category and how muc
      
    
   3. ERD
-     ![image](https://github.com/user-attachments/assets/a380d30d-f2f1-4c9c-a27a-c73f44416449)
-
+    ![456038705_1507492813475630_6226870094028159372_n (1)](https://github.com/user-attachments/assets/80b9a8e1-0ec2-40df-bd82-34d98e605b45)
 
      
